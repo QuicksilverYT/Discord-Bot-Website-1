@@ -1,4 +1,4 @@
-# Discord Bot Template By [itzQuicksilver](https://github.com/QuicksilverYT)
+# Discord Bot Site Template By [itzQuicksilver](https://github.com/QuicksilverYT)
 
 # Discord bots website template
 
